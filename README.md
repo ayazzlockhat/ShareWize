@@ -1,5 +1,7 @@
 # Capstone Project
-This is a project created for our 4th year Capstone class at McMaster University
+This is a project created for our 4th year Capstone class at McMaster University.
+Originally hosted on GitLab repo.
+
 ## Description
 Our goal is to empower our users by delivering a user-centric and comprehensive expense-sharing solution that simplifies the process of splitting bills, tracking shared expenses, and enhancing financial transparency within groups. Our primary objective, as a service goal, is to provide a highly efficient, user-friendly, and supportive platform that fosters harmonious financial interactions among friends, roommates, and social circles. As we continue to evolve, we may also explore revenue goals to sustain and enhance the service for our users.
 
