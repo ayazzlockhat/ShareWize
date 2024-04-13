@@ -1,0 +1,33 @@
+/* AboutUs.css */
+.img-fluid {
+    width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+.rounded-circle {
+    border-radius: 50px;
+}
+
+.title {
+    color: #3cb371;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.name {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.job {
+    color: gray;
+    font-size: 1.0rem;
+}
+
+.project-description {
+    color: lightgray;
+    font-size: 1.10rem;
+    width: 50%;
+}

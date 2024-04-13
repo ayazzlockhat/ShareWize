@@ -1,0 +1,46 @@
+.expense-container {
+    padding: 20px;
+}
+
+.expense-item {
+    background-color: #333;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.expense-details {
+    color: white;
+}
+
+.expense-description {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.expense-amount {
+    margin-bottom: 5px;
+}
+
+.expense-group {
+    margin-bottom: 5px;
+}
+
+.expense-date {
+    margin-bottom: 0;
+}
+
+.btn {
+    margin-left: 1%;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.modal-image {
+    margin-bottom: 10px;
+    /* Add some bottom margin to create space between images */
+}

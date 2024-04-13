@@ -1,0 +1,30 @@
+/* App.css */
+
+.container-fluid {
+    justify-content: center;
+    align-items: center;
+}
+
+.forms-container {
+    display: flex;
+}
+
+.form {
+    flex: 1;
+    margin-right: 20px;
+    /* Adjust spacing between forms if needed */
+}
+
+.form:last-child {
+    margin-right: 0;
+    /* Remove margin for the last form to prevent extra space */
+}
+
+.top-centered-content{
+    color: white;
+    font-size: larger;
+    font-variant: small-caps;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+    }

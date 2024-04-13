@@ -1,0 +1,60 @@
+.introduction {
+  color: #fff; /* White text color */
+  text-align: center;
+  padding: 2rem;
+  
+}
+
+.feature-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: transparent;
+  margin: 1rem;
+}
+
+.feature {
+  color: #fff;
+  padding: 1.5rem;
+  border-radius: 10px; /* Rounded corners */
+  border: 1px solid rgba(255, 255, 255, 0.3); /* Transparent border */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Box shadow for cards */
+  width: 30%; /* Adjust the width as needed */
+  text-align: center;
+  transition: border-color 0.3s, background 0.3s; /* Transition for border and background */
+}
+.feature h3 {
+  margin: 1rem 0;
+  color: #3cb371; /* Green text color for feature names */
+}
+
+.feature:hover {
+  background: rgba(0, 0, 0, 0.5); /* Darker transparent background on hover */
+  border-color: rgba(255, 255, 255, 0.7); /* More visible border on hover */
+}
+
+.feature h3 {
+  margin: 1rem 0;
+}
+
+.icon {
+  font-size: 36px;
+  margin-bottom: 1rem;
+}
+
+.cta-button {
+  background-color: #3cb371; /* Green CTA button background */
+  color: #fff; /* White CTA button text color */
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+  background-color: #2a8e68; /* Darker green on hover */
+}
+
+
+
