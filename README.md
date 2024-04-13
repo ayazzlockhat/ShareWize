@@ -9,7 +9,7 @@ Our goal is to empower our users by delivering a user-centric and comprehensive 
 3. Inside the `server` folder, run `npm start` to start the server
 4. Inside the `client` fodler, run `npm run dev` and open the localhost server in any browser
 
-## Images
+## Poster
 <img width="1182" alt="image" src="https://github.com/ayazzlockhat/ShareWize/assets/77209522/722b27d6-1fac-4e78-b8d2-a9d277a169a3">
 
 
