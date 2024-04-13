@@ -1,5 +1,6 @@
 # Capstone Project
 This is a project created for our 4th year Capstone class at McMaster University.
+<br></br>
 Originally hosted on GitLab repo.
 
 ## Description
